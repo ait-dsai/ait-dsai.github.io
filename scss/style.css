@@ -768,6 +768,8 @@ link:focus,
 .logo-footer {
   margin-top: -20px;
   display: inline-block; }
+  .logo-footer img {
+    max-width: 280px; }
 
 .footer {
   border-color: #494a43 !important;
