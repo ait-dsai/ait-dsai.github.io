@@ -793,3 +793,9 @@ link:focus,
   .tag-list a:hover {
     background-color: #ffbc3b;
     color: #fff; }
+
+.hero-section h2 {
+  line-height: 140%; }
+
+.hero-section .slick-dots {
+  display: none; }
