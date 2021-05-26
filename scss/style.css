@@ -799,3 +799,6 @@ link:focus,
 
 .hero-section .slick-dots {
   display: none; }
+
+.footer {
+  padding-top: 60px !important; }
